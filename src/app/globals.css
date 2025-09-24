@@ -174,7 +174,7 @@
   }
   
   .border-gradient {
-    background: linear-gradient(135deg, theme(colors.navy.800), theme(colors.navy.700));
+    background: linear-gradient(135deg, #334155, #475569);
   }
 }
 
